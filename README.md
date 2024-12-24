@@ -1,4 +1,4 @@
-<<<EVENT PRODUCING AND MANAGEMENT SYSTEM>>>
+<h1>Event Producer And Management System</h1>
 
 
 ![Screenshot 2024-12-24 124015](https://github.com/user-attachments/assets/49ca0f80-bd6d-4354-95b6-125959f31b8a)
